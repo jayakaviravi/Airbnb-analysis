@@ -3,7 +3,7 @@
 ### Introduction
 Built an interactive Power PI dashboard to analyze the Airbnb data extracted from MongoDB Atlas. Developed a Streamlit application for trend analysis, pattern recognition, and data insights using Exploratory Data Analysis (EDA). Explored variations in price, location, property type, and seasons through dynamic plots and charts.
 
-![Screenshot (34)](https://github.com/jayakaviravi/Airbnb-analysis/assets/156929580/4ff8d15d-e18e-4494-89bb-72487254d9fa)
+
 
 ### Technologies
 1. Python scripting
@@ -73,6 +73,8 @@ Host Insights:Explore host-related metrics, including host response time, respon
 Geographic Analysis:Investigate the market and country-level distribution of Airbnb listings.
 
 Availability Trends:Visualize property availability for the next 30, 60, 90, and 360 days.
+
+![Screenshot (35)](https://github.com/jayakaviravi/Airbnb-analysis/assets/156929580/32771bf6-56ac-42cf-b0cc-c33a1ed34551)
 
 ### Power BI Dashboard
 
