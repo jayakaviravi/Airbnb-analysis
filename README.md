@@ -74,6 +74,8 @@ Geographic Analysis:Investigate the market and country-level distribution of Air
 
 Availability Trends:Visualize property availability for the next 30, 60, 90, and 360 days.
 
+![Screenshot (35)](https://github.com/jayakaviravi/Airbnb-analysis/assets/156929580/61e9b642-43de-4642-81c9-3e27ad2ccfe0)
+
 
 ### Power BI Dashboard
 
