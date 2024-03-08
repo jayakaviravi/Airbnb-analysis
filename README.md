@@ -81,7 +81,7 @@ Availability Trends:Visualize property availability for the next 30, 60, 90, and
 
 ### Streamlit Dashboard
 
-
+![Screenshot (34)](https://github.com/jayakaviravi/Airbnb-analysis/assets/156929580/88417922-9edb-4ba7-967c-cb843908006b)
 
 ![Screenshot (35)](https://github.com/jayakaviravi/Airbnb-analysis/assets/156929580/61e9b642-43de-4642-81c9-3e27ad2ccfe0)
 
