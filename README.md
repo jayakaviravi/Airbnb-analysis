@@ -6,7 +6,7 @@ Built an interactive Power PI dashboard to analyze the Airbnb data extracted fro
 ### PowerBI Dashboard
 Create a comprehensive Power BI dashboard to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
 
-![powerbi](https://github.com/jayakaviravi/Airbnb-analysis/assets/156929580/2fa98e36-64c2-44f9-8866-017e6de8e8b3)
+
 
 
 
